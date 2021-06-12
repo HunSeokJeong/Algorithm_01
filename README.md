@@ -1,4 +1,4 @@
-# Algorithm_01
+# Algorithm_01 (20195138 정훈석)
 
 ### 1. Model
 ## MODEL 1 : 3 Layers with 1 Convolution layer 
